@@ -1,0 +1,14 @@
+D:\Hoc\C#\CS002_VariablesConstantsIO\bin\Release\net8.0\CS002_VariablesConstantsIO.exe
+D:\Hoc\C#\CS002_VariablesConstantsIO\bin\Release\net8.0\CS002_VariablesConstantsIO.deps.json
+D:\Hoc\C#\CS002_VariablesConstantsIO\bin\Release\net8.0\CS002_VariablesConstantsIO.runtimeconfig.json
+D:\Hoc\C#\CS002_VariablesConstantsIO\bin\Release\net8.0\CS002_VariablesConstantsIO.dll
+D:\Hoc\C#\CS002_VariablesConstantsIO\bin\Release\net8.0\CS002_VariablesConstantsIO.pdb
+D:\Hoc\C#\CS002_VariablesConstantsIO\obj\Release\net8.0\CS002_VariablesConstantsIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc\C#\CS002_VariablesConstantsIO\obj\Release\net8.0\CS002_VariablesConstantsIO.AssemblyInfoInputs.cache
+D:\Hoc\C#\CS002_VariablesConstantsIO\obj\Release\net8.0\CS002_VariablesConstantsIO.AssemblyInfo.cs
+D:\Hoc\C#\CS002_VariablesConstantsIO\obj\Release\net8.0\CS002_VariablesConstantsIO.csproj.CoreCompileInputs.cache
+D:\Hoc\C#\CS002_VariablesConstantsIO\obj\Release\net8.0\CS002_VariablesConstantsIO.dll
+D:\Hoc\C#\CS002_VariablesConstantsIO\obj\Release\net8.0\refint\CS002_VariablesConstantsIO.dll
+D:\Hoc\C#\CS002_VariablesConstantsIO\obj\Release\net8.0\CS002_VariablesConstantsIO.pdb
+D:\Hoc\C#\CS002_VariablesConstantsIO\obj\Release\net8.0\CS002_VariablesConstantsIO.genruntimeconfig.cache
+D:\Hoc\C#\CS002_VariablesConstantsIO\obj\Release\net8.0\ref\CS002_VariablesConstantsIO.dll

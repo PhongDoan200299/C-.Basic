@@ -1,0 +1,5 @@
+D:\Hoc\C#\CS002_VariablesConstantsIO\bin\Release\net8.0\publish\CS002_VariablesConstantsIO.exe
+D:\Hoc\C#\CS002_VariablesConstantsIO\bin\Release\net8.0\publish\CS002_VariablesConstantsIO.dll
+D:\Hoc\C#\CS002_VariablesConstantsIO\bin\Release\net8.0\publish\CS002_VariablesConstantsIO.deps.json
+D:\Hoc\C#\CS002_VariablesConstantsIO\bin\Release\net8.0\publish\CS002_VariablesConstantsIO.runtimeconfig.json
+D:\Hoc\C#\CS002_VariablesConstantsIO\bin\Release\net8.0\publish\CS002_VariablesConstantsIO.pdb
