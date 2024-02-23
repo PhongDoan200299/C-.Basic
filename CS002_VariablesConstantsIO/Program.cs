@@ -14,6 +14,7 @@ namespace CS002_VariablesConstantsIO
                 - _
                 - Không bắt đấu bằng kí tự số         
             */
+            //Kiểu khai báo biếng tường minh
             // String studentName = "PhongDoan";
             // int studentAge = 20;
 
@@ -29,6 +30,7 @@ namespace CS002_VariablesConstantsIO
             double hai_pi;
             hai_pi = 2*so_pi;
 
+            // const được khai báo trc biến, quy định hằng số
             const double PI = 3.14;
             const String WED = "THU TU";
 
@@ -74,7 +76,7 @@ namespace CS002_VariablesConstantsIO
 
             Console.WriteLine("Hay nhap vao so b");
             sInput = Console.ReadLine();
-            b = float.Parse(sInput);
+            b = Convert.ToSingle(sInput);
 
             Console.WriteLine("So a = {0}, b = {1}",a,b);
 
@@ -82,6 +84,15 @@ namespace CS002_VariablesConstantsIO
             Console.WriteLine(so_pi);
             Console.WriteLine(hai_pi);
             
+            // Kiểu khai báo biến ngầm định
+            var a = "Hello";
+            // biến a đã được ngầm định là chuỗi, khi gắn biến a bằng
+            // 123 thì sẽ xảy ra lỗi
+           // a = 123;
+           var b = 5;
+           b = 456;
+           // Biến b ở đây được ngầm định là số, khi gắn biến b bằng 
+           //456 thì ko bình thường
         }
     }
 }

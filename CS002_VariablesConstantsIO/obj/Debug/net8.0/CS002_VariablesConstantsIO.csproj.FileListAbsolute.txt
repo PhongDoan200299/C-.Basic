@@ -12,3 +12,4 @@ D:\Hoc\C#\CS002_VariablesConstantsIO\obj\Debug\net8.0\refint\CS002_VariablesCons
 D:\Hoc\C#\CS002_VariablesConstantsIO\obj\Debug\net8.0\CS002_VariablesConstantsIO.pdb
 D:\Hoc\C#\CS002_VariablesConstantsIO\obj\Debug\net8.0\CS002_VariablesConstantsIO.genruntimeconfig.cache
 D:\Hoc\C#\CS002_VariablesConstantsIO\obj\Debug\net8.0\ref\CS002_VariablesConstantsIO.dll
+D:\Hoc\C#\CS002_VariablesConstantsIO\obj\Debug\net8.0\CS002_VariablesConstantsIO.sourcelink.json
