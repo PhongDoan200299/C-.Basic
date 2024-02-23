@@ -1,0 +1,15 @@
+D:\Hoc\C#\CS003_ArithmeticAssignment\bin\Debug\net8.0\CS003_ArithmeticAssignment.exe
+D:\Hoc\C#\CS003_ArithmeticAssignment\bin\Debug\net8.0\CS003_ArithmeticAssignment.deps.json
+D:\Hoc\C#\CS003_ArithmeticAssignment\bin\Debug\net8.0\CS003_ArithmeticAssignment.runtimeconfig.json
+D:\Hoc\C#\CS003_ArithmeticAssignment\bin\Debug\net8.0\CS003_ArithmeticAssignment.dll
+D:\Hoc\C#\CS003_ArithmeticAssignment\bin\Debug\net8.0\CS003_ArithmeticAssignment.pdb
+D:\Hoc\C#\CS003_ArithmeticAssignment\obj\Debug\net8.0\CS003_ArithmeticAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc\C#\CS003_ArithmeticAssignment\obj\Debug\net8.0\CS003_ArithmeticAssignment.AssemblyInfoInputs.cache
+D:\Hoc\C#\CS003_ArithmeticAssignment\obj\Debug\net8.0\CS003_ArithmeticAssignment.AssemblyInfo.cs
+D:\Hoc\C#\CS003_ArithmeticAssignment\obj\Debug\net8.0\CS003_ArithmeticAssignment.csproj.CoreCompileInputs.cache
+D:\Hoc\C#\CS003_ArithmeticAssignment\obj\Debug\net8.0\CS003_ArithmeticAssignment.sourcelink.json
+D:\Hoc\C#\CS003_ArithmeticAssignment\obj\Debug\net8.0\CS003_ArithmeticAssignment.dll
+D:\Hoc\C#\CS003_ArithmeticAssignment\obj\Debug\net8.0\refint\CS003_ArithmeticAssignment.dll
+D:\Hoc\C#\CS003_ArithmeticAssignment\obj\Debug\net8.0\CS003_ArithmeticAssignment.pdb
+D:\Hoc\C#\CS003_ArithmeticAssignment\obj\Debug\net8.0\CS003_ArithmeticAssignment.genruntimeconfig.cache
+D:\Hoc\C#\CS003_ArithmeticAssignment\obj\Debug\net8.0\ref\CS003_ArithmeticAssignment.dll
