@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS004_Logical_if_switch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b3eeb559ab8483f36dcdaa790d57311d5141caa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dca591de18847950a0bd0cd799c91b964f01f714")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS004_Logical_if_switch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS004_Logical_if_switch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
