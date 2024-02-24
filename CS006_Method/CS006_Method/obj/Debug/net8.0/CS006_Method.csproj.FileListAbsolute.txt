@@ -1,0 +1,15 @@
+D:\Hoc\C#\CS006_Method\CS006_Method\bin\Debug\net8.0\CS006_Method.exe
+D:\Hoc\C#\CS006_Method\CS006_Method\bin\Debug\net8.0\CS006_Method.deps.json
+D:\Hoc\C#\CS006_Method\CS006_Method\bin\Debug\net8.0\CS006_Method.runtimeconfig.json
+D:\Hoc\C#\CS006_Method\CS006_Method\bin\Debug\net8.0\CS006_Method.dll
+D:\Hoc\C#\CS006_Method\CS006_Method\bin\Debug\net8.0\CS006_Method.pdb
+D:\Hoc\C#\CS006_Method\CS006_Method\obj\Debug\net8.0\CS006_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc\C#\CS006_Method\CS006_Method\obj\Debug\net8.0\CS006_Method.AssemblyInfoInputs.cache
+D:\Hoc\C#\CS006_Method\CS006_Method\obj\Debug\net8.0\CS006_Method.AssemblyInfo.cs
+D:\Hoc\C#\CS006_Method\CS006_Method\obj\Debug\net8.0\CS006_Method.csproj.CoreCompileInputs.cache
+D:\Hoc\C#\CS006_Method\CS006_Method\obj\Debug\net8.0\CS006_Method.sourcelink.json
+D:\Hoc\C#\CS006_Method\CS006_Method\obj\Debug\net8.0\CS006_Method.dll
+D:\Hoc\C#\CS006_Method\CS006_Method\obj\Debug\net8.0\refint\CS006_Method.dll
+D:\Hoc\C#\CS006_Method\CS006_Method\obj\Debug\net8.0\CS006_Method.pdb
+D:\Hoc\C#\CS006_Method\CS006_Method\obj\Debug\net8.0\CS006_Method.genruntimeconfig.cache
+D:\Hoc\C#\CS006_Method\CS006_Method\obj\Debug\net8.0\ref\CS006_Method.dll
