@@ -1,0 +1,5 @@
+D:\Hoc\C#\CS012_Array\CS012_Array\bin\Release\net8.0\publish\CS012_Array.exe
+D:\Hoc\C#\CS012_Array\CS012_Array\bin\Release\net8.0\publish\CS012_Array.dll
+D:\Hoc\C#\CS012_Array\CS012_Array\bin\Release\net8.0\publish\CS012_Array.deps.json
+D:\Hoc\C#\CS012_Array\CS012_Array\bin\Release\net8.0\publish\CS012_Array.runtimeconfig.json
+D:\Hoc\C#\CS012_Array\CS012_Array\bin\Release\net8.0\publish\CS012_Array.pdb

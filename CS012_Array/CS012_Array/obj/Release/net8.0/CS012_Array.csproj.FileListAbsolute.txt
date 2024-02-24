@@ -1,0 +1,15 @@
+D:\Hoc\C#\CS012_Array\CS012_Array\bin\Release\net8.0\CS012_Array.exe
+D:\Hoc\C#\CS012_Array\CS012_Array\bin\Release\net8.0\CS012_Array.deps.json
+D:\Hoc\C#\CS012_Array\CS012_Array\bin\Release\net8.0\CS012_Array.runtimeconfig.json
+D:\Hoc\C#\CS012_Array\CS012_Array\bin\Release\net8.0\CS012_Array.dll
+D:\Hoc\C#\CS012_Array\CS012_Array\bin\Release\net8.0\CS012_Array.pdb
+D:\Hoc\C#\CS012_Array\CS012_Array\obj\Release\net8.0\CS012_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc\C#\CS012_Array\CS012_Array\obj\Release\net8.0\CS012_Array.AssemblyInfoInputs.cache
+D:\Hoc\C#\CS012_Array\CS012_Array\obj\Release\net8.0\CS012_Array.AssemblyInfo.cs
+D:\Hoc\C#\CS012_Array\CS012_Array\obj\Release\net8.0\CS012_Array.csproj.CoreCompileInputs.cache
+D:\Hoc\C#\CS012_Array\CS012_Array\obj\Release\net8.0\CS012_Array.sourcelink.json
+D:\Hoc\C#\CS012_Array\CS012_Array\obj\Release\net8.0\CS012_Array.dll
+D:\Hoc\C#\CS012_Array\CS012_Array\obj\Release\net8.0\refint\CS012_Array.dll
+D:\Hoc\C#\CS012_Array\CS012_Array\obj\Release\net8.0\CS012_Array.pdb
+D:\Hoc\C#\CS012_Array\CS012_Array\obj\Release\net8.0\CS012_Array.genruntimeconfig.cache
+D:\Hoc\C#\CS012_Array\CS012_Array\obj\Release\net8.0\ref\CS012_Array.dll
