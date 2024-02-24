@@ -1,0 +1,5 @@
+D:\Hoc\C#\CS004_Logical_if_switch\bin\Release\net8.0\publish\CS004_Logical_if_switch.exe
+D:\Hoc\C#\CS004_Logical_if_switch\bin\Release\net8.0\publish\CS004_Logical_if_switch.dll
+D:\Hoc\C#\CS004_Logical_if_switch\bin\Release\net8.0\publish\CS004_Logical_if_switch.deps.json
+D:\Hoc\C#\CS004_Logical_if_switch\bin\Release\net8.0\publish\CS004_Logical_if_switch.runtimeconfig.json
+D:\Hoc\C#\CS004_Logical_if_switch\bin\Release\net8.0\publish\CS004_Logical_if_switch.pdb

@@ -1,0 +1,15 @@
+D:\Hoc\C#\CS004_Logical_if_switch\bin\Debug\net8.0\CS004_Logical_if_switch.exe
+D:\Hoc\C#\CS004_Logical_if_switch\bin\Debug\net8.0\CS004_Logical_if_switch.deps.json
+D:\Hoc\C#\CS004_Logical_if_switch\bin\Debug\net8.0\CS004_Logical_if_switch.runtimeconfig.json
+D:\Hoc\C#\CS004_Logical_if_switch\bin\Debug\net8.0\CS004_Logical_if_switch.dll
+D:\Hoc\C#\CS004_Logical_if_switch\bin\Debug\net8.0\CS004_Logical_if_switch.pdb
+D:\Hoc\C#\CS004_Logical_if_switch\obj\Debug\net8.0\CS004_Logical_if_switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc\C#\CS004_Logical_if_switch\obj\Debug\net8.0\CS004_Logical_if_switch.AssemblyInfoInputs.cache
+D:\Hoc\C#\CS004_Logical_if_switch\obj\Debug\net8.0\CS004_Logical_if_switch.AssemblyInfo.cs
+D:\Hoc\C#\CS004_Logical_if_switch\obj\Debug\net8.0\CS004_Logical_if_switch.csproj.CoreCompileInputs.cache
+D:\Hoc\C#\CS004_Logical_if_switch\obj\Debug\net8.0\CS004_Logical_if_switch.sourcelink.json
+D:\Hoc\C#\CS004_Logical_if_switch\obj\Debug\net8.0\CS004_Logical_if_switch.dll
+D:\Hoc\C#\CS004_Logical_if_switch\obj\Debug\net8.0\refint\CS004_Logical_if_switch.dll
+D:\Hoc\C#\CS004_Logical_if_switch\obj\Debug\net8.0\CS004_Logical_if_switch.pdb
+D:\Hoc\C#\CS004_Logical_if_switch\obj\Debug\net8.0\CS004_Logical_if_switch.genruntimeconfig.cache
+D:\Hoc\C#\CS004_Logical_if_switch\obj\Debug\net8.0\ref\CS004_Logical_if_switch.dll
