@@ -218,7 +218,7 @@ namespace CS004_Logical_if_switch
                     break;
                 default:
                     Console.WriteLine("Vui long nhap lai");
-                    goto L1;
+                    goto L1;//Đến vị trí chỉ định
                     break;
             }
         }
